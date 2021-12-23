@@ -1,0 +1,70 @@
+.btn
+{
+  display: inline-block; 
+  padding: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 3px;
+  margin-right: 3px;
+  background-color: #DE354C;
+}
+
+btn:hover
+{
+  background-color: aqua;
+  color: crimson;
+}
+
+.item1
+{
+  grid-column-start: 1;
+  grid-column-end: 4;
+  font-size: 30px;
+  text-align: center;
+  background-color: #DE354C;
+}
+
+.item2
+{
+  grid-column-start: 1;
+  grid-column-end: 4;
+  background-color: #18742f;
+}
+
+.item3
+{
+  grid-column-start: 1;
+  grid-column-end: 4;
+  background-color: white;
+}
+
+nav
+{
+  border: 1px solid black;
+  text-align: center;
+  color: white;
+}
+
+nav ul
+{
+  list-style: none;
+  padding: 0px;
+}
+
+h1 
+{
+  border-bottom: solid black;
+}
+
+img
+{
+  width: 600px;
+}
+small
+{
+  color: rgb(5, 5, 59)  ;
+}
+#justify
+{
+  text-align: justify;
+}
